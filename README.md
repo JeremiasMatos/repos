@@ -5,6 +5,8 @@
 
    - JAVASCRIPT.
    - TYPESCRIPT.
-   - 
+   - EXPRUESS
+   - NODEMON
+   - UUID
    
    
